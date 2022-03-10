@@ -1,0 +1,30 @@
+nav a{
+    padding: 0 20px 0 20px;
+    text-decoration: none;
+    color: #000;
+  }
+  nav a:hover{
+    color: #fff;
+  }
+  .navbar {width: 100%;
+    box-sizing: border-box;
+    min-height:55px;}
+  .navbar-bg{background:rgb(18, 3, 38, 0.3);}
+  .navbar-brand {float: left;padding: 15px 0px;font-size: 18px;line-height: 20px;color: #ffff;}
+  .navbar-brand img{width:100%;}
+  .nav {padding-left: 0;margin-bottom: 0;list-style: none;}
+  .nav > li {position: relative;display: block;}
+  .nav > li > a {position: relative;display: block;padding: 20px 20px 20px 20px;line-height: 13px;color:#fff;font-size:13px;text-transform: uppercase;}
+  .nav > li > a.btn-li{padding: 17.5px 25px 17.5px 25px;}
+  .land-nav> li > a{color:#fff;}
+  .navbar-header:after{clear: both;;}
+  .nav:before, .navbar:before, .container-fluid:before, .navbar-header:before{display: table;content: " ";}
+  .navbar-toggle-button{background:transparent;border:0;cursor:pointer;position: absolute;right: 15px;top: 22px;}
+  
+  @media (min-width:994px){
+      .navbar-header {width: 100%;display: flex;justify-content: center}
+      .navbar-nav > li {float: left;margin: 0;}/*padding: 16.5px 15px 16.5px 15px;*/
+      .nav{float:right;margin-top:0px;}
+      .navbar-toggle-button {display: none;}	
+      .hdr-logo-sub{color:#f44336;}
+  }
