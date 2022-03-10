@@ -1,0 +1,18 @@
+.det-main-section{background-color: #f4f4f4;min-height: 450px;}
+.det-img{width:25%;float: left;height: 450px;}
+.det-img img{height: 100%;object-fit: fill;max-width: 100%;}
+.det-content{width:75%;float: left;box-sizing: border-box;}
+.det-content h2{font-weight: 500;text-transform: uppercase;margin: 0px 0 3px 0;}
+.det-top{background: rgb(18, 3, 38, 0.9);;padding: 15px 20px 15px 20px;color: #fff;}
+.det-content p{margin: 0px 0 3px 0;font-size: 14px;line-height: 18px;font-weight: 500;}
+.det-content p span{margin: 0 40px 0 0;}
+.rating{background-color: rgb(18, 3, 38, 0.9);float:left;padding: 10px;width: 60px;height:50px;text-align: center;color: #fff;border-radius: 5px;display: flex;align-items: center;justify-content: center;}
+.rating h3{font-size: 15px;font-weight: 400;line-height: 26px;}
+.gr-left{float: left;height: 70px;display: flex;align-items: center;font-weight: 500;}
+.gr-sub-txt{font-size: 11px;font-weight: 400;}
+.spl-left{padding:0 0 0 20px;}
+.det-inner-section{padding:26px 35px 26px 35px;}
+.det-cnt{width:100%;float: left;padding:15px 0 0 0;}
+.det-cnt p{margin:0 0 10px 0;line-height: 20px;}
+.btn{background-color: rgb(18, 3, 38, 0.7);border:0;color: #fff;padding: 8px 20px 8px 20px;text-transform: uppercase;font-size: 11px;cursor: pointer;}
+.btn:hover{background-color: rgb(18, 3, 38, 0.9);}

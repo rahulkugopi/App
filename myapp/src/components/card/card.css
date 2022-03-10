@@ -1,0 +1,7 @@
+.card{width:24.3%;margin:0px 4px 10px 4px;float: left;}
+.card-content{text-align: center;font-size: 15px;line-height: 15px;font-weight: 500;}
+.card-btn-section{justify-content: center;margin: 0 0 10px 0;}
+.card-btn-section button{background-color: #21232d;color:#fff;padding: 12px 15px 12px 15px;font-size: 11px;line-height: 10px;}
+.card-btn-section button:hover{background-color: #15161b;}
+.link-btn{text-decoration: none;}
+.card-title{white-space: nowrap;overflow: hidden;text-overflow: ellipsis;}
